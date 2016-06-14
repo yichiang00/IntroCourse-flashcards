@@ -1,6 +1,7 @@
 .flashcard-answer{
   display: none;
 }
-.flashcard-question{
-  display: show;
+
+.show {
+  display: inline;
 }
