@@ -1,0 +1,6 @@
+.flashcard-answer{
+  display: none;
+}
+.flashcard-question{
+  display: show;
+}
